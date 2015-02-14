@@ -10,7 +10,7 @@ TODO
 TODO
 
 ## Plattform und das Drumherum
-Der Einfacheit würde ich (@pr0nopoly) vorschlagen, dass das Spiel im Browser laufen sollte. Ich habe diesbezüglich mal [eine Issue aufgemacht](https://github.com/AldebaranIndustries/scratchpad/issues/1).
+Diesbezüglich gibt es [eine Issue, in der diskutiert werden kann](https://github.com/AldebaranIndustries/scratchpad/issues/1).
 
 ## Technische Umsetzung
 
