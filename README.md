@@ -1,5 +1,5 @@
 # scratchpad
-Ideensammlung
+Ideensammlung für die Reise Nach Aldebaran.
 
 ## Spielmechanik/Spielkonzept
 
