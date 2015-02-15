@@ -1,6 +1,9 @@
 # scratchpad
 Ideensammlung für die Reise Nach Aldebaran.
 
+### Kommunikation
+Abundzu sind ein paar von uns im Channel #pr0gramm-spiel im Quakenet.
+
 ## Spielmechanik/Spielkonzept
 
 ### Plot
