@@ -7,7 +7,7 @@ Abundzu sind ein paar von uns im Channel #pr0gramm-spiel im Quakenet.
 ## Spielmechanik/Spielkonzept
 
 ### Plot
-TODO
+[Issue](https://github.com/AldebaranIndustries/scratchpad/issues/4)
 
 #### Slaptsticks
 [Issue](https://github.com/AldebaranIndustries/scratchpad/issues/3)
@@ -19,10 +19,9 @@ TODO
 
 ## Technische Umsetzung
 
-### Verwendete Sprache
-C#
+Verwendete Sprache: C#
 
-### Frameworks und Librarys
+Frameworks und Librarys:
 Es wird auf Unity gesetzt. Der Grund dafür kann in [der Issue](https://github.com/AldebaranIndustries/scratchpad/issues/1) nachgelesen werden.
 
 ### Assets
